@@ -1,6 +1,7 @@
 # 🍽️ Food Delivery System
 
 **Live Demo:** [https://fooddelivery-45c1.onrender.com](https://fooddelivery-45c1.onrender.com)
+**backend:** [https://fooddelivery-1-nxvg.onrender.com](https://fooddelivery-1-nxvg.onrender.com).
 
 A full-stack Food Delivery application with **User, Admin, and Delivery Partner modules**, built with **React.js, Node.js, Express, MongoDB, and JWT authentication**. The system includes restaurant management, menu management, cart and order management, payment processing, reviews & ratings, coupons, notifications, and analytics dashboard.
 
@@ -194,7 +195,7 @@ A full-stack Food Delivery application with **User, Admin, and Delivery Partner 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/food-delivery.git
+git clone [https://github.com/yourusername/food-delivery.git](https://github.com/kesav2807/FoodDelivery.git)
 cd food-delivery
 
 # Install backend dependencies
