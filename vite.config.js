@@ -9,7 +9,7 @@ export default defineConfig({
     allowedHosts: true,
     proxy: {
       '/api': {
-        target: 'http://localhost:5000',
+        target: 'https://fooddelivery-1-nxvg.onrender.com',
         changeOrigin: true
       }
     }
